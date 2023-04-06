@@ -1,0 +1,29 @@
+body {
+    background-color: coral;
+
+}
+
+h1 {
+    font-size: medium;
+    color: cornsilk;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h4 {
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#camera {
+    width: 500px;
+    height: 400px;
+
+}
+
+img {
+    width: 200px;
+    border-radius: 2px;
+    padding: 3px;
+    box-shadow: 50px;
+    
+}
